@@ -7,8 +7,7 @@
 - 🌱 I’m currently learning ...
 - Studying Advanced Diploma of Cyber Security (date of completion: 02/12/2022) | Completed Certificate IV + Diploma IT Networking
 - Developing further Python 3 programming knowledge
-- Configuring High Availability or an archive server for existing home network production/live server/s
-- Configuring bare-metal TrueNAS-Core server on home network
+- Configuring High Availability replication/failover for existing home network production/live server/s
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
